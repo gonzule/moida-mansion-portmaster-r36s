@@ -72,7 +72,9 @@ An authentic, native retro LCD handheld port of Lucas Pope's (*Papers, Please*, 
 Setting up the port takes only 2 minutes:
 
 ### Step 1: Install Port Files
-1. Go to the **[Releases](../../releases)** tab on GitHub and download **`moidamansion.zip`**.
+1. Go to the **[Releases](../../releases)** tab on GitHub and download the zip that matches your setup:
+   * **`moidamansion.zip`** (**32.4 MB** — *Standard*): Slim package for handhelds with PortMaster / Wi-Fi.
+   * **`moidamansion-offline.zip`** (**61.8 MB** — *Standalone*): Complete package pre-bundled with universal Pygame-CE runtime for offline handhelds without Wi-Fi.
 2. Extract the contents directly to the `ports/` directory on your handheld console's SD card:
    ```text
    SD Card /
