@@ -1,0 +1,5 @@
+Place the following files from Lucas Pope's itch.io page (dukope.itch.io/moida-mansion) here:
+1. moida.js (or moida_i9Qw.js)       - [REQUIRED] Game engine logic
+2. manual.png (or 02wPJo_R3Nl.png)    - [OPTIONAL] 12-page in-game instruction comic booklet
+3. hardware.jpg (or hardware_jpg.jpg) - [OPTIONAL] Authentic retro handheld toy bezel frame
+4. glass.jpg (or glass_jpg_i9Qw.jpg)  - [OPTIONAL] Vintage acrylic screen reflection glare

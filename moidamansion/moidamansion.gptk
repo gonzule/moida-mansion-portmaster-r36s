@@ -1,0 +1,36 @@
+# PortMaster gptokeyb mapping for Moida Mansion on R36S
+
+back = m
+start = p
+
+hotkey = back
+hotkey_start = kill
+
+up = up
+down = down
+left = left
+right = right
+
+left_analog_up = up
+left_analog_down = down
+left_analog_left = left
+left_analog_right = right
+
+# Physical Bottom button (labeled 'B' on R36S) -> key b (search/select)
+a = b
+
+# Physical Top button (labeled 'X' on R36S) -> key x (climb stairs)
+x = x
+
+# Physical Right button (labeled 'A' on R36S) -> disabled
+b = \"\"
+
+# Physical Left button (labeled 'Y' on R36S) -> disabled
+y = \"\"
+
+l1 = \"\"
+r1 = \"\"
+l2 = \"\"
+r2 = \"\"
+l3 = \"\"
+r3 = \"\"

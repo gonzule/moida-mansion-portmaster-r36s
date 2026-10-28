@@ -1,0 +1,34 @@
+{
+  "version": 4,
+  "name": "moidamansion.zip",
+  "items": [
+    "Moida Mansion.sh",
+    "moidamansion"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "Moida Mansion",
+    "desc": "An authentic retro LCD handheld game created by Lucas Pope (Papers, Please / Return of the Obra Dinn). Explore a procedural haunted mansion, rescue your three trapped friends, find hidden keys and crown buttons, and evade the terrifying Monsta!",
+    "inst": "D-Pad Left/Right to move rooms, D-Pad Up or X to climb stairs, D-Pad Down or B to search. START for Pause Menu, SELECT for 12-page Manual.",
+    "genres": [
+      "Adventure",
+      "Puzzle"
+    ],
+    "portmaster": true,
+    "porter": [
+      "Community"
+    ],
+    "image": {
+      "screenshot": "screenshot.png"
+    },
+    "runtimes": [
+      "python_3.11"
+    ],
+    "reqs": []
+  },
+  "status": {
+    "source": "Ported",
+    "status": "Ready to run"
+  },
+  "availability": "Available"
+}

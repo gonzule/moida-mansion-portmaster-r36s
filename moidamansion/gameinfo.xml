@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./Moida Mansion.sh</path>
+    <name>Moida Mansion</name>
+    <desc>An authentic retro LCD handheld game created by Lucas Pope (Papers, Please / Return of the Obra Dinn). Explore a procedural haunted mansion, rescue your three trapped friends, find hidden keys and crown buttons, and evade the terrifying Monsta!</desc>
+    <image>./screenshot.png</image>
+    <releasedate>20241031T000000</releasedate>
+    <developer>Lucas Pope (dukope)</developer>
+    <publisher>dukope</publisher>
+    <genre>Adventure / Puzzle</genre>
+    <players>1</players>
+  </game>
+</gameList>
